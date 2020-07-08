@@ -2,7 +2,7 @@
 My code and plots submitted for the tidytuesday challenge (https://github.com/rfordatascience/tidytuesday/).
 
 ## 2020 Week 28 - Coffee Ratings
-<img scr="https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png" alt="week28png" width="20px">
+<img scr="https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png" alt="week28png" width="200px">
 ![week28png](https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png)
 
 ## 2020 Week 27 - Claremont Run of X-Men
