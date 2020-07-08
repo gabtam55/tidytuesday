@@ -40,7 +40,8 @@ ggplot(best_beans, aes(criteria, grade)) +
   theme_bw() +
   labs(title = "Profile of the Winning Coffee Beans",
        subtitle = "Below are the bean varieties and their owners that recieved the highest professional rating each year\nfrom 2010 to 2018. Each diagram shows the sub-ratings that they received on a 1-10 scale. \n",
-       caption = "\nSource: Coffee Quality Database | Graphic: Gabriel Tam") +
+       # Check James out (@jmzledoux)
+       caption = "\nSource: James LeDoux & Coffee Quality Database | Graphic: Gabriel Tam") +
   theme(plot.margin = margin(0.5, 0.25, 0.5, 0.25, "cm"),
         plot.title = element_text(size = 20, hjust = 0.5, face = "bold", color = "#330000"),
         plot.subtitle = element_text(size = 12, hjust = 0.5, face = "italic", color = "#800000"),
