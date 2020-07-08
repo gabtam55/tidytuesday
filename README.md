@@ -2,7 +2,7 @@
 My code and plots submitted for the tidytuesday challenge (https://github.com/rfordatascience/tidytuesday/).
 
 ## 2020 Week 28 - Coffee Ratings
-<img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png" width="300" height="450">
+<img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png" width="500">
 
 ![week28png](https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png)
 
