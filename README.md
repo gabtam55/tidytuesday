@@ -1,6 +1,9 @@
 # tidytuesday
 My code and plots submitted for the tidytuesday challenge (https://github.com/rfordatascience/tidytuesday/).
 
+## 2020 Week 29 - Astronaut Database
+<img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week29/astronauts.png" alt="week29png" width="500" />
+
 ## 2020 Week 28 - Coffee Ratings
 <img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week28/profile_of_best_beans.png" alt="week28png" width="500" />
 
