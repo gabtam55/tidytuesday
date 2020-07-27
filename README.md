@@ -1,6 +1,9 @@
 # tidytuesday
 My code and plots submitted for the tidytuesday challenge (https://github.com/rfordatascience/tidytuesday/).
 
+## 2020 Week 30 - Australian Pets
+<img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week30/rspca_animal_outcomes.png" alt="week30png" width="500" />
+
 ## 2020 Week 29 - Astronaut Database
 <img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week29/astronauts_compressed.png" alt="week29png" width="500" />
 
