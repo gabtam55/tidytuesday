@@ -1,6 +1,9 @@
 # tidytuesday
 My code and plots submitted for the tidytuesday challenge (https://github.com/rfordatascience/tidytuesday/).
 
+## 2020 Week 30 - Palmer Penguins
+<img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week31/palmer_penguins.png" alt="week31png" width="500" />
+
 ## 2020 Week 30 - Australian Pets
 <img src="https://github.com/gabtam55/tidytuesday/raw/master/2020week30/rspca_animal_outcomes.png" alt="week30png" width="500" />
 
