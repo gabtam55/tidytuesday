@@ -12,7 +12,7 @@ ui <- fluidPage(
   
   fluidRow(
     column(5, offset = 1,
-           sliderTextInput("income", "Household Income",
+           sliderTextInput("income", "Household Income",  # Thanks Avision
                            choices = c("$0-$9,999", "$10,000-$24,999", "$25,000-$49,999", "$50,000-$74,999", "$75,000-$99,999",
                                        "$100,000-$124,999", "$125,000-$149,999", "$150,000-$174,999", "$175,000-$199,999", "$200,000+"),
                            selected = c("$0-$9,999", "$200,000+")),
